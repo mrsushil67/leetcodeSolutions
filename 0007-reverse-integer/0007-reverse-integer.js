@@ -11,7 +11,7 @@ var reverse = function(x) {
         var pop = x % 10;
 
         if (x < 0 && pop > 0) {
-            pop - 10;
+            pop -= 10;
         }
 
         x = (x - pop) / 10;
