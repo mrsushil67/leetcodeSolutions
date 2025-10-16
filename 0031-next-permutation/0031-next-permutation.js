@@ -21,7 +21,7 @@ var nextPermutation = function(nums) {
 
 function reverse(arr, start) {
     let end = arr.length - 1;
-    while (start <= end) {
+    while (start < end) {
         [arr[start], arr[end]] = [arr[end], arr[start]];
         start++;
         end--;
