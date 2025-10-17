@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0278-first-bad-version) |
 ## Sorting
 |  |
 | ------- |
@@ -111,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0299-bulls-and-cows) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
