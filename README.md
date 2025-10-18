@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0136-single-number) |
+| [0179-largest-number](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0219-contains-duplicate-ii) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0179-largest-number](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0179-largest-number) |
 | [0299-bulls-and-cows](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0299-bulls-and-cows) |
 ## Trie
 |  |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0088-merge-sorted-array) |
+| [0179-largest-number](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0268-missing-number) |
 ## Bit Manipulation
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0011-container-with-most-water) |
+| [0179-largest-number](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0179-largest-number) |
 ## Dynamic Programming
 |  |
 | ------- |
