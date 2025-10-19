@@ -31,5 +31,6 @@ var maximumGap = function(nums) {
         maxGap = Math.max(maxGap, bucket.min - prevMax);
         prevMax = bucket.max;
     }
+    
     return maxGap;
 };
