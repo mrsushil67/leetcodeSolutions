@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0646-maximum-length-of-pair-chain](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0739-daily-temperatures](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0739-daily-temperatures) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 ## String
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0278-first-bad-version) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 ## Sorting
 |  |
 | ------- |
