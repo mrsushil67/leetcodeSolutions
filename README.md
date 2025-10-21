@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0334-increasing-triplet-subsequence) |
+| [0472-concatenated-words](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0472-concatenated-words) |
 | [0624-maximum-distance-in-arrays](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0646-maximum-length-of-pair-chain](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0739-daily-temperatures](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0739-daily-temperatures) |
@@ -65,10 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0179-largest-number](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0179-largest-number) |
 | [0299-bulls-and-cows](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0299-bulls-and-cows) |
+| [0472-concatenated-words](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0472-concatenated-words) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0014-longest-common-prefix) |
+| [0472-concatenated-words](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0472-concatenated-words) |
 ## Two Pointers
 |  |
 | ------- |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0268-missing-number) |
+| [0472-concatenated-words](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0472-concatenated-words) |
 | [0646-maximum-length-of-pair-chain](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0646-maximum-length-of-pair-chain) |
 ## Bit Manipulation
 |  |
@@ -145,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0198-house-robber) |
 | [0313-super-ugly-number](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0322-coin-change) |
+| [0472-concatenated-words](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0472-concatenated-words) |
 | [0646-maximum-length-of-pair-chain](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0646-maximum-length-of-pair-chain) |
 ## Linked List
 |  |
@@ -232,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0739-daily-temperatures) |
+## Depth-First Search
+|  |
+| ------- |
+| [0472-concatenated-words](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0472-concatenated-words) |
 <!---LeetCode Topics End-->
