@@ -241,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0472-concatenated-words](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0472-concatenated-words) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
