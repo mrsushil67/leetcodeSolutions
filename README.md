@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-car-fleet](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0883-car-fleet) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0895-shortest-path-to-get-all-keys) |
 | [0907-koko-eating-bananas](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0907-koko-eating-bananas) |
+| [1036-rotting-oranges](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1036-rotting-oranges) |
 ## String
 |  |
 | ------- |
@@ -254,12 +255,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0322-coin-change) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0895-shortest-path-to-get-all-keys) |
+| [1036-rotting-oranges](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1036-rotting-oranges) |
 ## Matrix
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0054-spiral-matrix) |
 | [0221-maximal-square](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0221-maximal-square) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0895-shortest-path-to-get-all-keys) |
+| [1036-rotting-oranges](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1036-rotting-oranges) |
 ## Simulation
 |  |
 | ------- |
