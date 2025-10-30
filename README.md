@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0895-shortest-path-to-get-all-keys](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0895-shortest-path-to-get-all-keys) |
 | [0907-koko-eating-bananas](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0907-koko-eating-bananas) |
 | [1036-rotting-oranges](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1036-rotting-oranges) |
+| [1095-two-city-scheduling](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1095-two-city-scheduling) |
 ## String
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0472-concatenated-words) |
 | [0646-maximum-length-of-pair-chain](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0883-car-fleet](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0883-car-fleet) |
+| [1095-two-city-scheduling](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1095-two-city-scheduling) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0624-maximum-distance-in-arrays](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0646-maximum-length-of-pair-chain](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0646-maximum-length-of-pair-chain) |
+| [1095-two-city-scheduling](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1095-two-city-scheduling) |
 ## Dynamic Programming
 |  |
 | ------- |
