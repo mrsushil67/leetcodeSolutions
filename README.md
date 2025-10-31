@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0403-frog-jump](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0403-frog-jump) |
 | [0436-find-right-interval](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0436-find-right-interval) |
+| [0456-132-pattern](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0456-132-pattern) |
 | [0472-concatenated-words](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0472-concatenated-words) |
 | [0493-reverse-pairs](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0493-reverse-pairs) |
 | [0546-remove-boxes](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0546-remove-boxes) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0278-first-bad-version) |
 | [0436-find-right-interval](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0436-find-right-interval) |
+| [0456-132-pattern](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0493-reverse-pairs) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0792-binary-search) |
@@ -277,12 +279,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0321-create-maximum-number](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0321-create-maximum-number) |
+| [0456-132-pattern](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0456-132-pattern) |
 | [0739-daily-temperatures](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0883-car-fleet) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0321-create-maximum-number](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0321-create-maximum-number) |
+| [0456-132-pattern](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0456-132-pattern) |
 | [0739-daily-temperatures](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0883-car-fleet) |
 ## Depth-First Search
@@ -309,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0493-reverse-pairs) |
 ## Memoization
 |  |
