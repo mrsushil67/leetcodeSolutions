@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0268-missing-number) |
 | [0313-super-ugly-number](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0313-super-ugly-number) |
 | [0371-sum-of-two-integers](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0371-sum-of-two-integers) |
+| [0539-minimum-time-difference](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0539-minimum-time-difference) |
 ## Array
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0493-reverse-pairs) |
 | [0495-teemo-attacking](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0495-teemo-attacking) |
 | [0525-contiguous-array](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0525-contiguous-array) |
+| [0539-minimum-time-difference](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0539-minimum-time-difference) |
 | [0546-remove-boxes](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0546-remove-boxes) |
 | [0624-maximum-distance-in-arrays](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0646-maximum-length-of-pair-chain](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0646-maximum-length-of-pair-chain) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0472-concatenated-words](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0474-ones-and-zeroes) |
+| [0539-minimum-time-difference](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0539-minimum-time-difference) |
 | [0878-shifting-letters](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0878-shifting-letters) |
 ## Trie
 |  |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0268-missing-number) |
 | [0436-find-right-interval](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0436-find-right-interval) |
 | [0472-concatenated-words](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0472-concatenated-words) |
+| [0539-minimum-time-difference](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0539-minimum-time-difference) |
 | [0646-maximum-length-of-pair-chain](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0883-car-fleet](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0883-car-fleet) |
 | [1095-two-city-scheduling](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1095-two-city-scheduling) |
