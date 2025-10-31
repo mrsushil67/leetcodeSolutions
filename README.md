@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0403-frog-jump](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0403-frog-jump) |
+| [0436-find-right-interval](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0436-find-right-interval) |
 | [0472-concatenated-words](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0472-concatenated-words) |
 | [0493-reverse-pairs](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0493-reverse-pairs) |
 | [0546-remove-boxes](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0546-remove-boxes) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0278-first-bad-version) |
+| [0436-find-right-interval](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0436-find-right-interval) |
 | [0493-reverse-pairs](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0493-reverse-pairs) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0792-binary-search) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0268-missing-number) |
+| [0436-find-right-interval](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0436-find-right-interval) |
 | [0472-concatenated-words](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0472-concatenated-words) |
 | [0646-maximum-length-of-pair-chain](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0883-car-fleet](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0883-car-fleet) |
