@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0878-shifting-letters](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0878-shifting-letters) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1812-reformat-phone-number](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1812-reformat-phone-number) |
+| [1871-palindrome-partitioning-iv](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1871-palindrome-partitioning-iv) |
 ## Trie
 |  |
 | ------- |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0474-ones-and-zeroes) |
 | [0546-remove-boxes](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0546-remove-boxes) |
 | [0646-maximum-length-of-pair-chain](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0646-maximum-length-of-pair-chain) |
+| [1871-palindrome-partitioning-iv](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1871-palindrome-partitioning-iv) |
 ## Linked List
 |  |
 | ------- |
