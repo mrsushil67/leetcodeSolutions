@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0313-super-ugly-number) |
 | [0371-sum-of-two-integers](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0371-sum-of-two-integers) |
 | [0539-minimum-time-difference](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0539-minimum-time-difference) |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1920-determine-color-of-a-chessboard-square) |
 ## Array
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1812-reformat-phone-number](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1812-reformat-phone-number) |
 | [1871-palindrome-partitioning-iv](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1871-palindrome-partitioning-iv) |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1920-determine-color-of-a-chessboard-square) |
 ## Trie
 |  |
 | ------- |
