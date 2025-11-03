@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0394-decode-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0415-add-strings) |
+| [0420-strong-password-checker](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0420-strong-password-checker) |
 | [0472-concatenated-words](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0474-ones-and-zeroes) |
 | [0539-minimum-time-difference](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0539-minimum-time-difference) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0179-largest-number) |
 | [0321-create-maximum-number](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0321-create-maximum-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0334-increasing-triplet-subsequence) |
+| [0420-strong-password-checker](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0420-strong-password-checker) |
 | [0624-maximum-distance-in-arrays](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0646-maximum-length-of-pair-chain](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [1095-two-city-scheduling](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1095-two-city-scheduling) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0239-sliding-window-maximum) |
+| [0420-strong-password-checker](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0420-strong-password-checker) |
 ## Monotonic Queue
 |  |
 | ------- |
