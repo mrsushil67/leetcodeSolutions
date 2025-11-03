@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0313-super-ugly-number) |
 | [0371-sum-of-two-integers](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0415-add-strings](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0415-add-strings) |
 | [0539-minimum-time-difference](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0539-minimum-time-difference) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1920-determine-color-of-a-chessboard-square) |
 ## Array
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0385-mini-parser](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0385-mini-parser) |
 | [0394-decode-string](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0394-decode-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0415-add-strings](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0415-add-strings) |
 | [0472-concatenated-words](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0474-ones-and-zeroes) |
 | [0539-minimum-time-difference](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0539-minimum-time-difference) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0054-spiral-matrix) |
+| [0415-add-strings](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0495-teemo-attacking) |
 ## Stack
 |  |
