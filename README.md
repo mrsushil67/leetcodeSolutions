@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0564-find-the-closest-palindrome](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0567-permutation-in-string) |
 | [0878-shifting-letters](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0878-shifting-letters) |
+| [1472-increasing-decreasing-string](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1472-increasing-decreasing-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1812-reformat-phone-number](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1812-reformat-phone-number) |
 | [1871-palindrome-partitioning-iv](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1871-palindrome-partitioning-iv) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0389-find-the-difference) |
 | [0525-contiguous-array](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0567-permutation-in-string) |
+| [1472-increasing-decreasing-string](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1472-increasing-decreasing-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 ## Sliding Window
 |  |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0169-majority-element) |
 | [0299-bulls-and-cows](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0299-bulls-and-cows) |
 | [0387-first-unique-character-in-a-string](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1472-increasing-decreasing-string](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1472-increasing-decreasing-string) |
 ## Interactive
 |  |
 | ------- |
