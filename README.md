@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0299-bulls-and-cows) |
 | [0318-maximum-product-of-word-lengths](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0385-mini-parser](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0385-mini-parser) |
+| [0387-first-unique-character-in-a-string](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0394-decode-string) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0299-bulls-and-cows) |
+| [0387-first-unique-character-in-a-string](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0389-find-the-difference) |
 | [0525-contiguous-array](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0567-permutation-in-string) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0169-majority-element) |
 | [0299-bulls-and-cows](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0299-bulls-and-cows) |
+| [0387-first-unique-character-in-a-string](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Interactive
 |  |
 | ------- |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
