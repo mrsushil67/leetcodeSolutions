@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0564-find-the-closest-palindrome](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0567-permutation-in-string) |
 | [0878-shifting-letters](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0878-shifting-letters) |
+| [0889-buddy-strings](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0889-buddy-strings) |
 | [1472-increasing-decreasing-string](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1472-increasing-decreasing-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1764-maximum-repeating-substring](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1764-maximum-repeating-substring) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0389-find-the-difference) |
 | [0525-contiguous-array](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0567-permutation-in-string) |
+| [0889-buddy-strings](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0889-buddy-strings) |
 | [1472-increasing-decreasing-string](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1472-increasing-decreasing-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1873-longest-nice-substring](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1873-longest-nice-substring) |
