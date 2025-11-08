@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0321-create-maximum-number) |
 | [0322-coin-change](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0334-increasing-triplet-subsequence) |
+| [0399-evaluate-division](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0403-frog-jump) |
 | [0436-find-right-interval](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0436-find-right-interval) |
 | [0456-132-pattern](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0456-132-pattern) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0394-decode-string) |
+| [0399-evaluate-division](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0399-evaluate-division) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0415-add-strings) |
 | [0420-strong-password-checker](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0420-strong-password-checker) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0322-coin-change) |
+| [0399-evaluate-division](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0399-evaluate-division) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0895-shortest-path-to-get-all-keys) |
 | [1036-rotting-oranges](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1036-rotting-oranges) |
 ## Matrix
@@ -379,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0385-mini-parser](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0385-mini-parser) |
+| [0399-evaluate-division](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0399-evaluate-division) |
 | [0472-concatenated-words](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0472-concatenated-words) |
 ## Database
 |  |
@@ -419,4 +423,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0187-repeated-dna-sequences) |
+## Union Find
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0399-evaluate-division) |
+## Graph
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0399-evaluate-division) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
