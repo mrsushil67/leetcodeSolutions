@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0134-gas-station](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0136-single-number) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0044-wildcard-matching) |
 | [0065-valid-number](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0065-valid-number) |
+| [0079-word-search](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0093-restore-ip-addresses) |
 | [0179-largest-number](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0187-repeated-dna-sequences) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0093-restore-ip-addresses) |
 | [0301-remove-invalid-parentheses](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0301-remove-invalid-parentheses) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -357,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0079-word-search) |
 | [0221-maximal-square](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0221-maximal-square) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0895-shortest-path-to-get-all-keys) |
 | [1036-rotting-oranges](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1036-rotting-oranges) |
@@ -385,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0079-word-search) |
 | [0385-mini-parser](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0385-mini-parser) |
 | [0399-evaluate-division](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0399-evaluate-division) |
 | [0472-concatenated-words](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0472-concatenated-words) |
