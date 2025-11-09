@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0044-wildcard-matching](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0044-wildcard-matching) |
 | [0065-valid-number](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0065-valid-number) |
 | [0093-restore-ip-addresses](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0093-restore-ip-addresses) |
 | [0179-largest-number](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0179-largest-number) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0044-wildcard-matching) |
 | [0134-gas-station](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0179-largest-number) |
 | [0321-create-maximum-number](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0321-create-maximum-number) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0005-longest-palindromic-substring) |
+| [0044-wildcard-matching](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0221-maximal-square) |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0002-add-two-numbers) |
+| [0044-wildcard-matching](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0044-wildcard-matching) |
 | [0273-integer-to-english-words](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0273-integer-to-english-words) |
 | [0394-decode-string](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0394-decode-string) |
 ## String Matching
