@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-car-fleet](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0883-car-fleet) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0895-shortest-path-to-get-all-keys) |
 | [0907-koko-eating-bananas](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0907-koko-eating-bananas) |
+| [0926-find-and-replace-pattern](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0926-find-and-replace-pattern) |
 | [0979-di-string-match](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0979-di-string-match) |
 | [1036-rotting-oranges](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1036-rotting-oranges) |
 | [1095-two-city-scheduling](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1095-two-city-scheduling) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0878-shifting-letters](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0878-shifting-letters) |
 | [0889-buddy-strings](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0926-find-and-replace-pattern](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0926-find-and-replace-pattern) |
 | [0979-di-string-match](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0979-di-string-match) |
 | [1472-increasing-decreasing-string](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1472-increasing-decreasing-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0648-replace-words) |
 | [0889-buddy-strings](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0926-find-and-replace-pattern](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0926-find-and-replace-pattern) |
 | [1472-increasing-decreasing-string](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1472-increasing-decreasing-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1873-longest-nice-substring](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1873-longest-nice-substring) |
