@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-buddy-strings](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0926-find-and-replace-pattern](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0926-find-and-replace-pattern) |
+| [0961-long-pressed-name](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0961-long-pressed-name) |
 | [0979-di-string-match](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0979-di-string-match) |
 | [1472-increasing-decreasing-string](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1472-increasing-decreasing-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0567-permutation-in-string) |
+| [0961-long-pressed-name](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0961-long-pressed-name) |
 | [0979-di-string-match](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0979-di-string-match) |
 ## Binary Search
 |  |
