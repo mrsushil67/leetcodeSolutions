@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0420-strong-password-checker](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0420-strong-password-checker) |
 | [0434-number-of-segments-in-a-string](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0451-sort-characters-by-frequency) |
+| [0466-count-the-repetitions](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0466-count-the-repetitions) |
 | [0472-concatenated-words](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0474-ones-and-zeroes) |
 | [0500-keyboard-row](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0500-keyboard-row) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0392-is-subsequence) |
 | [0403-frog-jump](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0403-frog-jump) |
+| [0466-count-the-repetitions](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0466-count-the-repetitions) |
 | [0472-concatenated-words](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0474-ones-and-zeroes) |
 | [0546-remove-boxes](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0546-remove-boxes) |
