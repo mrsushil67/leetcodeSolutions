@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0474-ones-and-zeroes) |
 | [0500-keyboard-row](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0520-detect-capital) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0539-minimum-time-difference](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0567-permutation-in-string) |
