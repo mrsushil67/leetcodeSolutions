@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0066-plus-one) |
 | [0149-max-points-on-a-line](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0149-max-points-on-a-line) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0044-wildcard-matching) |
 | [0065-valid-number](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0065-valid-number) |
 | [0079-word-search](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0079-word-search) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0054-spiral-matrix) |
 | [0415-add-strings](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0495-teemo-attacking) |
