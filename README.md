@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0043-multiply-strings) |
+| [0050-powx-n](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0066-plus-one) |
 | [0149-max-points-on-a-line](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0149-max-points-on-a-line) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0002-add-two-numbers) |
 | [0044-wildcard-matching](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0044-wildcard-matching) |
+| [0050-powx-n](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0273-integer-to-english-words) |
 | [0394-decode-string](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0394-decode-string) |
