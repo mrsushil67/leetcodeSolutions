@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0640-solve-the-equation](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0640-solve-the-equation) |
 | [0648-replace-words](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0648-replace-words) |
 | [0680-valid-palindrome-ii](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0680-valid-palindrome-ii) |
+| [0782-jewels-and-stones](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0782-jewels-and-stones) |
 | [0824-number-of-lines-to-write-string](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0824-number-of-lines-to-write-string) |
 | [0857-positions-of-large-groups](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0857-positions-of-large-groups) |
 | [0878-shifting-letters](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0878-shifting-letters) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0609-find-duplicate-file-in-system) |
 | [0648-replace-words](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0648-replace-words) |
+| [0782-jewels-and-stones](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0782-jewels-and-stones) |
 | [0889-buddy-strings](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0926-find-and-replace-pattern](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0926-find-and-replace-pattern) |
