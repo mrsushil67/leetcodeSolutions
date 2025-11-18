@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0149-max-points-on-a-line) |
 | [0172-factorial-trailing-zeroes](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0268-missing-number) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0283-move-zeroes) |
 | [0321-create-maximum-number](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0321-create-maximum-number) |
 | [0344-reverse-string](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0344-reverse-string) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0187-repeated-dna-sequences) |
+| [0202-happy-number](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0242-valid-anagram) |
