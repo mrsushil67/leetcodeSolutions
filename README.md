@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0273-integer-to-english-words) |
+| [0292-nim-game](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0292-nim-game) |
 | [0313-super-ugly-number](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0313-super-ugly-number) |
 | [0371-sum-of-two-integers](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -530,4 +531,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0399-evaluate-division) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
