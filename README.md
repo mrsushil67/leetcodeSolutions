@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0149-max-points-on-a-line) |
+| [0166-fraction-to-recurring-decimal](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0172-factorial-trailing-zeroes](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0202-happy-number) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0065-valid-number) |
 | [0079-word-search](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0093-restore-ip-addresses) |
+| [0166-fraction-to-recurring-decimal](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0187-repeated-dna-sequences) |
 | [0224-basic-calculator](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0224-basic-calculator) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0149-max-points-on-a-line](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0149-max-points-on-a-line) |
+| [0166-fraction-to-recurring-decimal](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0202-happy-number) |
