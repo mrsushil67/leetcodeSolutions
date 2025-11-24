@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0371-sum-of-two-integers) |
+| [0372-super-pow](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0372-super-pow) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0504-base-7) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0169-majority-element) |
+| [0372-super-pow](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0372-super-pow) |
 | [0493-reverse-pairs](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0493-reverse-pairs) |
 | [1873-longest-nice-substring](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1873-longest-nice-substring) |
 ## Enumeration
