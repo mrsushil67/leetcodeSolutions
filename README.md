@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0166-fraction-to-recurring-decimal) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0044-wildcard-matching) |
 | [0065-valid-number](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0093-restore-ip-addresses) |
 | [0166-fraction-to-recurring-decimal](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0166-fraction-to-recurring-decimal) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0231-power-of-two) |
@@ -463,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0495-teemo-attacking) |
