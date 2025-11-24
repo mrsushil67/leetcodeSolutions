@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0089-gray-code) |
 | [0149-max-points-on-a-line](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0172-factorial-trailing-zeroes](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0172-factorial-trailing-zeroes) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0231-power-of-two) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0093-restore-ip-addresses) |
 | [0301-remove-invalid-parentheses](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0306-additive-number) |
