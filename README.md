@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1103-distribute-candies-to-people](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1103-distribute-candies-to-people) |
 | [1799-maximize-score-after-n-operations](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1799-maximize-score-after-n-operations) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1862-sum-of-floored-pairs](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1862-sum-of-floored-pairs) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1920-determine-color-of-a-chessboard-square) |
 ## Array
 |  |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-two-city-scheduling](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1095-two-city-scheduling) |
 | [1799-maximize-score-after-n-operations](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1799-maximize-score-after-n-operations) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1862-sum-of-floored-pairs](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1862-sum-of-floored-pairs) |
 ## String
 |  |
 | ------- |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0907-koko-eating-bananas) |
+| [1862-sum-of-floored-pairs](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1862-sum-of-floored-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -554,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0525-contiguous-array](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0525-contiguous-array) |
 | [0878-shifting-letters](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0878-shifting-letters) |
+| [1862-sum-of-floored-pairs](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1862-sum-of-floored-pairs) |
 ## Rolling Hash
 |  |
 | ------- |
