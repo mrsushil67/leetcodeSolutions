@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0268-missing-number) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0221-maximal-square) |
+| [0233-number-of-digit-one](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0233-number-of-digit-one) |
 | [0313-super-ugly-number](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0368-largest-divisible-subset) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0233-number-of-digit-one) |
 | [0273-integer-to-english-words](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0394-decode-string) |
