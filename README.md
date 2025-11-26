@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1512-number-of-good-pairs) |
 | [1518-water-bottles](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1518-water-bottles) |
+| [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1799-maximize-score-after-n-operations](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1799-maximize-score-after-n-operations) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1862-sum-of-floored-pairs](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1862-sum-of-floored-pairs) |
