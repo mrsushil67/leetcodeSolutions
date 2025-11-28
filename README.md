@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0640-solve-the-equation](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0640-solve-the-equation) |
 | [0935-orderly-queue](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0935-orderly-queue) |
 | [1103-distribute-candies-to-people](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1103-distribute-candies-to-people) |
+| [1154-day-of-the-year](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1154-day-of-the-year) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1486-xor-operation-in-an-array](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1512-number-of-good-pairs) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0935-orderly-queue](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0935-orderly-queue) |
 | [0961-long-pressed-name](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0961-long-pressed-name) |
 | [0979-di-string-match](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0979-di-string-match) |
+| [1154-day-of-the-year](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1154-day-of-the-year) |
 | [1472-increasing-decreasing-string](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1472-increasing-decreasing-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1764-maximum-repeating-substring](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1764-maximum-repeating-substring) |
