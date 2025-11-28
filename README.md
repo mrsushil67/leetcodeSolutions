@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-check-if-it-is-a-good-array](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1250-check-if-it-is-a-good-array) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1486-xor-operation-in-an-array](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1486-xor-operation-in-an-array) |
+| [1510-stone-game-iv](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1510-stone-game-iv) |
 | [1512-number-of-good-pairs](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1512-number-of-good-pairs) |
 | [1518-water-bottles](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1518-water-bottles) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0646-maximum-length-of-pair-chain](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0868-push-dominoes](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0868-push-dominoes) |
+| [1510-stone-game-iv](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1510-stone-game-iv) |
 | [1764-maximum-repeating-substring](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1764-maximum-repeating-substring) |
 | [1799-maximize-score-after-n-operations](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1799-maximize-score-after-n-operations) |
 | [1871-palindrome-partitioning-iv](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1871-palindrome-partitioning-iv) |
@@ -613,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0292-nim-game) |
+| [1510-stone-game-iv](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1510-stone-game-iv) |
 ## Bitmask
 |  |
 | ------- |
