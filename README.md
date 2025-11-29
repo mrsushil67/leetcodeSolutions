@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0564-find-the-closest-palindrome) |
 | [0640-solve-the-equation](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0640-solve-the-equation) |
+| [0775-global-and-local-inversions](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0775-global-and-local-inversions) |
 | [0935-orderly-queue](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0935-orderly-queue) |
 | [1103-distribute-candies-to-people](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1103-distribute-candies-to-people) |
 | [1154-day-of-the-year](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1154-day-of-the-year) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0648-replace-words) |
 | [0739-daily-temperatures](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0775-global-and-local-inversions](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0775-global-and-local-inversions) |
 | [0792-binary-search](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0792-binary-search) |
 | [0824-number-of-lines-to-write-string](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0824-number-of-lines-to-write-string) |
 | [0837-most-common-word](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0837-most-common-word) |
