@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0935-orderly-queue](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0935-orderly-queue) |
 | [1103-distribute-candies-to-people](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1103-distribute-candies-to-people) |
 | [1154-day-of-the-year](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1154-day-of-the-year) |
+| [1201-ugly-number-iii](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1201-ugly-number-iii) |
 | [1250-check-if-it-is-a-good-array](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1250-check-if-it-is-a-good-array) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1486-xor-operation-in-an-array](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1486-xor-operation-in-an-array) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0907-koko-eating-bananas) |
+| [1201-ugly-number-iii](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1201-ugly-number-iii) |
 | [1862-sum-of-floored-pairs](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1862-sum-of-floored-pairs) |
 ## Sorting
 |  |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0062-unique-paths) |
+| [1201-ugly-number-iii](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1201-ugly-number-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -476,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0258-add-digits) |
+| [1201-ugly-number-iii](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1201-ugly-number-iii) |
 | [1250-check-if-it-is-a-good-array](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1250-check-if-it-is-a-good-array) |
 | [1799-maximize-score-after-n-operations](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1799-maximize-score-after-n-operations) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1979-find-greatest-common-divisor-of-array) |
