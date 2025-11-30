@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1799-maximize-score-after-n-operations](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1799-maximize-score-after-n-operations) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1837-sum-of-digits-in-base-k](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1837-sum-of-digits-in-base-k) |
 | [1862-sum-of-floored-pairs](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1862-sum-of-floored-pairs) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1453-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1453-maximum-number-of-darts-inside-of-a-circular-dartboard) |
 | [1512-number-of-good-pairs](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1512-number-of-good-pairs) |
 | [1799-maximize-score-after-n-operations](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1799-maximize-score-after-n-operations) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1862-sum-of-floored-pairs](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1862-sum-of-floored-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1472-increasing-decreasing-string](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1472-increasing-decreasing-string) |
 | [1512-number-of-good-pairs](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1512-number-of-good-pairs) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1873-longest-nice-substring](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1873-longest-nice-substring) |
 ## Sliding Window
 |  |
@@ -458,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1472-increasing-decreasing-string](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1472-increasing-decreasing-string) |
 | [1512-number-of-good-pairs](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1512-number-of-good-pairs) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1814-count-nice-pairs-in-an-array) |
 ## Interactive
 |  |
 | ------- |
