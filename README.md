@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0537-complex-number-multiplication](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0539-minimum-time-difference) |
 | [0553-optimal-division](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0553-optimal-division) |
+| [0556-next-greater-element-iii](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0556-next-greater-element-iii) |
 | [0564-find-the-closest-palindrome](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0564-find-the-closest-palindrome) |
 | [0633-sum-of-square-numbers](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0633-sum-of-square-numbers) |
 | [0640-solve-the-equation](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0640-solve-the-equation) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0521-longest-uncommon-subsequence-i](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0537-complex-number-multiplication](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0539-minimum-time-difference) |
+| [0556-next-greater-element-iii](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0564-find-the-closest-palindrome](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0567-permutation-in-string) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0321-create-maximum-number) |
 | [0344-reverse-string](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0392-is-subsequence) |
+| [0556-next-greater-element-iii](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0633-sum-of-square-numbers) |
