@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0775-global-and-local-inversions](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0775-global-and-local-inversions) |
 | [0780-reaching-points](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0780-reaching-points) |
 | [0788-rotated-digits](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0788-rotated-digits) |
+| [0837-new-21-game](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0837-new-21-game) |
 | [0935-orderly-queue](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0935-orderly-queue) |
 | [1103-distribute-candies-to-people](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1103-distribute-candies-to-people) |
 | [1154-day-of-the-year](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1154-day-of-the-year) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0567-permutation-in-string) |
+| [0837-new-21-game](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0837-new-21-game) |
 | [1873-longest-nice-substring](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1873-longest-nice-substring) |
 ## Greedy
 |  |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0646-maximum-length-of-pair-chain](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0788-rotated-digits](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0788-rotated-digits) |
+| [0837-new-21-game](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0837-new-21-game) |
 | [0868-push-dominoes](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0868-push-dominoes) |
 | [1510-stone-game-iv](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1510-stone-game-iv) |
 | [1764-maximum-repeating-substring](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1764-maximum-repeating-substring) |
@@ -652,4 +655,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1799-maximize-score-after-n-operations](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1799-maximize-score-after-n-operations) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0837-new-21-game](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0837-new-21-game) |
 <!---LeetCode Topics End-->
