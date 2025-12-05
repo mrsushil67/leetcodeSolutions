@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1830-minimum-number-of-operations-to-make-string-sorted) |
 | [1837-sum-of-digits-in-base-k](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1837-sum-of-digits-in-base-k) |
 | [1862-sum-of-floored-pairs](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1862-sum-of-floored-pairs) |
+| [1903-largest-odd-number-in-string](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1903-largest-odd-number-in-string) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1925-count-square-sum-triples](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1925-count-square-sum-triples) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1830-minimum-number-of-operations-to-make-string-sorted) |
 | [1871-palindrome-partitioning-iv](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1871-palindrome-partitioning-iv) |
 | [1873-longest-nice-substring](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1873-longest-nice-substring) |
+| [1903-largest-odd-number-in-string](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1903-largest-odd-number-in-string) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1920-determine-color-of-a-chessboard-square) |
 ## Trie
 |  |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0979-di-string-match) |
 | [1095-two-city-scheduling](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1095-two-city-scheduling) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
+| [1903-largest-odd-number-in-string](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1903-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
