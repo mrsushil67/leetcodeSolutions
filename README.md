@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1512-number-of-good-pairs) |
 | [1518-water-bottles](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1518-water-bottles) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1573-number-of-ways-to-split-a-string) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1688-count-of-matches-in-tournament](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1799-maximize-score-after-n-operations](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1799-maximize-score-after-n-operations) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0895-shortest-path-to-get-all-keys) |
 | [1486-xor-operation-in-an-array](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1486-xor-operation-in-an-array) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1799-maximize-score-after-n-operations](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1799-maximize-score-after-n-operations) |
 | [1873-longest-nice-substring](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1873-longest-nice-substring) |
 ## Hash Table
@@ -583,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0640-solve-the-equation](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0640-solve-the-equation) |
 | [1103-distribute-candies-to-people](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1103-distribute-candies-to-people) |
 | [1518-water-bottles](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1518-water-bottles) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1688-count-of-matches-in-tournament](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Stack
