@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0066-plus-one) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0066-plus-one) |
@@ -549,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0079-word-search) |
 | [0221-maximal-square](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0221-maximal-square) |
