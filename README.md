@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1799-maximize-score-after-n-operations](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1799-maximize-score-after-n-operations) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1830-minimum-number-of-operations-to-make-string-sorted) |
 | [1837-sum-of-digits-in-base-k](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1837-sum-of-digits-in-base-k) |
 | [1862-sum-of-floored-pairs](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1862-sum-of-floored-pairs) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1920-determine-color-of-a-chessboard-square) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1764-maximum-repeating-substring](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1764-maximum-repeating-substring) |
 | [1812-reformat-phone-number](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1812-reformat-phone-number) |
+| [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1830-minimum-number-of-operations-to-make-string-sorted) |
 | [1871-palindrome-partitioning-iv](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1871-palindrome-partitioning-iv) |
 | [1873-longest-nice-substring](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1873-longest-nice-substring) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1920-determine-color-of-a-chessboard-square) |
@@ -499,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0062-unique-paths) |
 | [1201-ugly-number-iii](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1201-ugly-number-iii) |
+| [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1830-minimum-number-of-operations-to-make-string-sorted) |
 ## Divide and Conquer
 |  |
 | ------- |
