@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0553-optimal-division](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0553-optimal-division) |
 | [0556-next-greater-element-iii](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0556-next-greater-element-iii) |
 | [0564-find-the-closest-palindrome](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0564-find-the-closest-palindrome) |
+| [0587-erect-the-fence](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0587-erect-the-fence) |
 | [0633-sum-of-square-numbers](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0633-sum-of-square-numbers) |
 | [0640-solve-the-equation](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0640-solve-the-equation) |
 | [0775-global-and-local-inversions](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0775-global-and-local-inversions) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0539-minimum-time-difference) |
 | [0546-remove-boxes](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0546-remove-boxes) |
 | [0553-optimal-division](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0553-optimal-division) |
+| [0587-erect-the-fence](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0587-erect-the-fence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0609-find-duplicate-file-in-system) |
 | [0624-maximum-distance-in-arrays](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0624-maximum-distance-in-arrays) |
@@ -539,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0149-max-points-on-a-line) |
+| [0587-erect-the-fence](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0587-erect-the-fence) |
 | [1453-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1453-maximum-number-of-darts-inside-of-a-circular-dartboard) |
 ## Breadth-First Search
 |  |
