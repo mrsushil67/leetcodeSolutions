@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-reaching-points](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0780-reaching-points) |
 | [0788-rotated-digits](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0788-rotated-digits) |
 | [0837-new-21-game](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0837-new-21-game) |
+| [0866-prime-palindrome](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0866-prime-palindrome) |
 | [0878-nth-magical-number](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0878-nth-magical-number) |
 | [0932-beautiful-array](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0932-beautiful-array) |
 | [0935-orderly-queue](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0935-orderly-queue) |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0258-add-digits) |
+| [0866-prime-palindrome](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0866-prime-palindrome) |
 | [1201-ugly-number-iii](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1201-ugly-number-iii) |
 | [1250-check-if-it-is-a-good-array](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1250-check-if-it-is-a-good-array) |
 | [1799-maximize-score-after-n-operations](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1799-maximize-score-after-n-operations) |
