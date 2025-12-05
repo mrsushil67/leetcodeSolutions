@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-square-sum-triples](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1925-count-square-sum-triples) |
 | [1927-sum-game](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/mrsushil67/leetcodeSolutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3024-type-of-triangle](https://github.com/mrsushil67/leetcodeSolutions/tree/master/3024-type-of-triangle) |
 | [3115-maximum-prime-difference](https://github.com/mrsushil67/leetcodeSolutions/tree/master/3115-maximum-prime-difference) |
 ## Array
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1862-sum-of-floored-pairs](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1862-sum-of-floored-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/mrsushil67/leetcodeSolutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3024-type-of-triangle](https://github.com/mrsushil67/leetcodeSolutions/tree/master/3024-type-of-triangle) |
 | [3115-maximum-prime-difference](https://github.com/mrsushil67/leetcodeSolutions/tree/master/3115-maximum-prime-difference) |
 ## String
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0935-orderly-queue](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0935-orderly-queue) |
 | [0976-largest-perimeter-triangle](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0976-largest-perimeter-triangle) |
 | [1095-two-city-scheduling](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1095-two-city-scheduling) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/mrsushil67/leetcodeSolutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3024-type-of-triangle](https://github.com/mrsushil67/leetcodeSolutions/tree/master/3024-type-of-triangle) |
 ## Bit Manipulation
 |  |
@@ -581,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0221-maximal-square) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0895-shortest-path-to-get-all-keys) |
 | [1036-rotting-oranges](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1036-rotting-oranges) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/mrsushil67/leetcodeSolutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Simulation
 |  |
 | ------- |
