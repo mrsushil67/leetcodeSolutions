@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2101-detonate-the-maximum-bombs](https://github.com/mrsushil67/leetcodeSolutions/tree/master/2101-detonate-the-maximum-bombs) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/mrsushil67/leetcodeSolutions/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2457-minimum-addition-to-make-integer-beautiful](https://github.com/mrsushil67/leetcodeSolutions/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
+| [2469-convert-the-temperature](https://github.com/mrsushil67/leetcodeSolutions/tree/master/2469-convert-the-temperature) |
 | [3024-type-of-triangle](https://github.com/mrsushil67/leetcodeSolutions/tree/master/3024-type-of-triangle) |
 | [3115-maximum-prime-difference](https://github.com/mrsushil67/leetcodeSolutions/tree/master/3115-maximum-prime-difference) |
 ## Array
