@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-square-sum-triples](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1925-count-square-sum-triples) |
 | [1927-sum-game](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2028-find-missing-observations](https://github.com/mrsushil67/leetcodeSolutions/tree/master/2028-find-missing-observations) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/mrsushil67/leetcodeSolutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3024-type-of-triangle](https://github.com/mrsushil67/leetcodeSolutions/tree/master/3024-type-of-triangle) |
 | [3115-maximum-prime-difference](https://github.com/mrsushil67/leetcodeSolutions/tree/master/3115-maximum-prime-difference) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1862-sum-of-floored-pairs](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1862-sum-of-floored-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2028-find-missing-observations](https://github.com/mrsushil67/leetcodeSolutions/tree/master/2028-find-missing-observations) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/mrsushil67/leetcodeSolutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3024-type-of-triangle](https://github.com/mrsushil67/leetcodeSolutions/tree/master/3024-type-of-triangle) |
 | [3115-maximum-prime-difference](https://github.com/mrsushil67/leetcodeSolutions/tree/master/3115-maximum-prime-difference) |
@@ -601,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1688-count-of-matches-in-tournament](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2028-find-missing-observations](https://github.com/mrsushil67/leetcodeSolutions/tree/master/2028-find-missing-observations) |
 ## Stack
 |  |
 | ------- |
