@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2028-find-missing-observations](https://github.com/mrsushil67/leetcodeSolutions/tree/master/2028-find-missing-observations) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/mrsushil67/leetcodeSolutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2063-vowels-of-all-substrings](https://github.com/mrsushil67/leetcodeSolutions/tree/master/2063-vowels-of-all-substrings) |
+| [2101-detonate-the-maximum-bombs](https://github.com/mrsushil67/leetcodeSolutions/tree/master/2101-detonate-the-maximum-bombs) |
 | [3024-type-of-triangle](https://github.com/mrsushil67/leetcodeSolutions/tree/master/3024-type-of-triangle) |
 | [3115-maximum-prime-difference](https://github.com/mrsushil67/leetcodeSolutions/tree/master/3115-maximum-prime-difference) |
 ## Array
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2028-find-missing-observations](https://github.com/mrsushil67/leetcodeSolutions/tree/master/2028-find-missing-observations) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/mrsushil67/leetcodeSolutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2101-detonate-the-maximum-bombs](https://github.com/mrsushil67/leetcodeSolutions/tree/master/2101-detonate-the-maximum-bombs) |
 | [3024-type-of-triangle](https://github.com/mrsushil67/leetcodeSolutions/tree/master/3024-type-of-triangle) |
 | [3115-maximum-prime-difference](https://github.com/mrsushil67/leetcodeSolutions/tree/master/3115-maximum-prime-difference) |
 ## String
@@ -573,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0149-max-points-on-a-line) |
 | [0587-erect-the-fence](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0587-erect-the-fence) |
 | [1453-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1453-maximum-number-of-darts-inside-of-a-circular-dartboard) |
+| [2101-detonate-the-maximum-bombs](https://github.com/mrsushil67/leetcodeSolutions/tree/master/2101-detonate-the-maximum-bombs) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -581,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0399-evaluate-division) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0895-shortest-path-to-get-all-keys) |
 | [1036-rotting-oranges](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1036-rotting-oranges) |
+| [2101-detonate-the-maximum-bombs](https://github.com/mrsushil67/leetcodeSolutions/tree/master/2101-detonate-the-maximum-bombs) |
 ## Matrix
 |  |
 | ------- |
@@ -632,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0385-mini-parser](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0385-mini-parser) |
 | [0399-evaluate-division](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0399-evaluate-division) |
 | [0472-concatenated-words](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0472-concatenated-words) |
+| [2101-detonate-the-maximum-bombs](https://github.com/mrsushil67/leetcodeSolutions/tree/master/2101-detonate-the-maximum-bombs) |
 ## Database
 |  |
 | ------- |
@@ -682,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0399-evaluate-division) |
+| [2101-detonate-the-maximum-bombs](https://github.com/mrsushil67/leetcodeSolutions/tree/master/2101-detonate-the-maximum-bombs) |
 ## Shortest Path
 |  |
 | ------- |
