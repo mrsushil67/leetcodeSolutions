@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2028-find-missing-observations](https://github.com/mrsushil67/leetcodeSolutions/tree/master/2028-find-missing-observations) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/mrsushil67/leetcodeSolutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2063-vowels-of-all-substrings](https://github.com/mrsushil67/leetcodeSolutions/tree/master/2063-vowels-of-all-substrings) |
 | [3024-type-of-triangle](https://github.com/mrsushil67/leetcodeSolutions/tree/master/3024-type-of-triangle) |
 | [3115-maximum-prime-difference](https://github.com/mrsushil67/leetcodeSolutions/tree/master/3115-maximum-prime-difference) |
 ## Array
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1903-largest-odd-number-in-string) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1927-sum-game](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1927-sum-game) |
+| [2063-vowels-of-all-substrings](https://github.com/mrsushil67/leetcodeSolutions/tree/master/2063-vowels-of-all-substrings) |
 ## Trie
 |  |
 | ------- |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1764-maximum-repeating-substring](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1764-maximum-repeating-substring) |
 | [1799-maximize-score-after-n-operations](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1799-maximize-score-after-n-operations) |
 | [1871-palindrome-partitioning-iv](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1871-palindrome-partitioning-iv) |
+| [2063-vowels-of-all-substrings](https://github.com/mrsushil67/leetcodeSolutions/tree/master/2063-vowels-of-all-substrings) |
 ## Linked List
 |  |
 | ------- |
@@ -513,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0062-unique-paths) |
 | [1201-ugly-number-iii](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1201-ugly-number-iii) |
 | [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1830-minimum-number-of-operations-to-make-string-sorted) |
+| [2063-vowels-of-all-substrings](https://github.com/mrsushil67/leetcodeSolutions/tree/master/2063-vowels-of-all-substrings) |
 ## Divide and Conquer
 |  |
 | ------- |
