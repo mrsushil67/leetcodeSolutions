@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2443-sum-of-number-and-its-reverse](https://github.com/mrsushil67/leetcodeSolutions/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2457-minimum-addition-to-make-integer-beautiful](https://github.com/mrsushil67/leetcodeSolutions/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
 | [2469-convert-the-temperature](https://github.com/mrsushil67/leetcodeSolutions/tree/master/2469-convert-the-temperature) |
+| [2514-count-anagrams](https://github.com/mrsushil67/leetcodeSolutions/tree/master/2514-count-anagrams) |
 | [3024-type-of-triangle](https://github.com/mrsushil67/leetcodeSolutions/tree/master/3024-type-of-triangle) |
 | [3115-maximum-prime-difference](https://github.com/mrsushil67/leetcodeSolutions/tree/master/3115-maximum-prime-difference) |
 ## Array
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-determine-color-of-a-chessboard-square](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1927-sum-game](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1927-sum-game) |
 | [2063-vowels-of-all-substrings](https://github.com/mrsushil67/leetcodeSolutions/tree/master/2063-vowels-of-all-substrings) |
+| [2514-count-anagrams](https://github.com/mrsushil67/leetcodeSolutions/tree/master/2514-count-anagrams) |
 ## Trie
 |  |
 | ------- |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1873-longest-nice-substring](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1873-longest-nice-substring) |
+| [2514-count-anagrams](https://github.com/mrsushil67/leetcodeSolutions/tree/master/2514-count-anagrams) |
 ## Sliding Window
 |  |
 | ------- |
@@ -511,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1472-increasing-decreasing-string](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1472-increasing-decreasing-string) |
 | [1512-number-of-good-pairs](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1512-number-of-good-pairs) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1814-count-nice-pairs-in-an-array) |
+| [2514-count-anagrams](https://github.com/mrsushil67/leetcodeSolutions/tree/master/2514-count-anagrams) |
 ## Interactive
 |  |
 | ------- |
@@ -523,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1201-ugly-number-iii](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1201-ugly-number-iii) |
 | [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1830-minimum-number-of-operations-to-make-string-sorted) |
 | [2063-vowels-of-all-substrings](https://github.com/mrsushil67/leetcodeSolutions/tree/master/2063-vowels-of-all-substrings) |
+| [2514-count-anagrams](https://github.com/mrsushil67/leetcodeSolutions/tree/master/2514-count-anagrams) |
 ## Divide and Conquer
 |  |
 | ------- |
