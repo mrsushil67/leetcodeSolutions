@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/mrsushil67/leetcodeSolutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2063-vowels-of-all-substrings](https://github.com/mrsushil67/leetcodeSolutions/tree/master/2063-vowels-of-all-substrings) |
 | [2101-detonate-the-maximum-bombs](https://github.com/mrsushil67/leetcodeSolutions/tree/master/2101-detonate-the-maximum-bombs) |
+| [2443-sum-of-number-and-its-reverse](https://github.com/mrsushil67/leetcodeSolutions/tree/master/2443-sum-of-number-and-its-reverse) |
 | [3024-type-of-triangle](https://github.com/mrsushil67/leetcodeSolutions/tree/master/3024-type-of-triangle) |
 | [3115-maximum-prime-difference](https://github.com/mrsushil67/leetcodeSolutions/tree/master/3115-maximum-prime-difference) |
 ## Array
@@ -533,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0204-count-primes) |
 | [1925-count-square-sum-triples](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1925-count-square-sum-triples) |
+| [2443-sum-of-number-and-its-reverse](https://github.com/mrsushil67/leetcodeSolutions/tree/master/2443-sum-of-number-and-its-reverse) |
 ## Number Theory
 |  |
 | ------- |
