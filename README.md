@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2063-vowels-of-all-substrings](https://github.com/mrsushil67/leetcodeSolutions/tree/master/2063-vowels-of-all-substrings) |
 | [2101-detonate-the-maximum-bombs](https://github.com/mrsushil67/leetcodeSolutions/tree/master/2101-detonate-the-maximum-bombs) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/mrsushil67/leetcodeSolutions/tree/master/2443-sum-of-number-and-its-reverse) |
+| [2457-minimum-addition-to-make-integer-beautiful](https://github.com/mrsushil67/leetcodeSolutions/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
 | [3024-type-of-triangle](https://github.com/mrsushil67/leetcodeSolutions/tree/master/3024-type-of-triangle) |
 | [3115-maximum-prime-difference](https://github.com/mrsushil67/leetcodeSolutions/tree/master/3115-maximum-prime-difference) |
 ## Array
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1903-largest-odd-number-in-string](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1927-sum-game) |
+| [2457-minimum-addition-to-make-integer-beautiful](https://github.com/mrsushil67/leetcodeSolutions/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
 ## Dynamic Programming
 |  |
 | ------- |
