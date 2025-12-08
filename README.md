@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0775-global-and-local-inversions](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0775-global-and-local-inversions) |
 | [0780-reaching-points](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0780-reaching-points) |
 | [0788-rotated-digits](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0788-rotated-digits) |
+| [0829-consecutive-numbers-sum](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0829-consecutive-numbers-sum) |
 | [0837-new-21-game](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0837-new-21-game) |
 | [0843-guess-the-word](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0843-guess-the-word) |
 | [0866-prime-palindrome](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0866-prime-palindrome) |
@@ -551,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0204-count-primes) |
+| [0829-consecutive-numbers-sum](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0829-consecutive-numbers-sum) |
 | [1925-count-square-sum-triples](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1925-count-square-sum-triples) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/mrsushil67/leetcodeSolutions/tree/master/2443-sum-of-number-and-its-reverse) |
 ## Number Theory
