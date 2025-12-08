@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0843-guess-the-word](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0843-guess-the-word) |
 | [0866-prime-palindrome](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0866-prime-palindrome) |
 | [0878-nth-magical-number](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0878-nth-magical-number) |
+| [0887-super-egg-drop](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0887-super-egg-drop) |
 | [0908-smallest-range-i](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0908-smallest-range-i) |
 | [0932-beautiful-array](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0932-beautiful-array) |
 | [0935-orderly-queue](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0935-orderly-queue) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0792-binary-search) |
 | [0878-nth-magical-number](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0878-nth-magical-number) |
+| [0887-super-egg-drop](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0887-super-egg-drop) |
 | [0907-koko-eating-bananas](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0907-koko-eating-bananas) |
 | [1201-ugly-number-iii](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1201-ugly-number-iii) |
 | [1862-sum-of-floored-pairs](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1862-sum-of-floored-pairs) |
@@ -469,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0788-rotated-digits) |
 | [0837-new-21-game](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0837-new-21-game) |
 | [0868-push-dominoes](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0868-push-dominoes) |
+| [0887-super-egg-drop](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0887-super-egg-drop) |
 | [1510-stone-game-iv](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1510-stone-game-iv) |
 | [1764-maximum-repeating-substring](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1764-maximum-repeating-substring) |
 | [1799-maximize-score-after-n-operations](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1799-maximize-score-after-n-operations) |
