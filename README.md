@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-beautiful-array](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0932-beautiful-array) |
 | [0935-orderly-queue](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0935-orderly-queue) |
 | [0976-largest-perimeter-triangle](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0976-largest-perimeter-triangle) |
+| [1017-convert-to-base-2](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1017-convert-to-base-2) |
 | [1041-robot-bounded-in-circle](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1041-robot-bounded-in-circle) |
 | [1103-distribute-candies-to-people](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1103-distribute-candies-to-people) |
 | [1154-day-of-the-year](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1154-day-of-the-year) |
