@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-beautiful-array](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0932-beautiful-array) |
 | [0935-orderly-queue](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0935-orderly-queue) |
 | [0976-largest-perimeter-triangle](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0976-largest-perimeter-triangle) |
+| [1041-robot-bounded-in-circle](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1041-robot-bounded-in-circle) |
 | [1103-distribute-candies-to-people](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1103-distribute-candies-to-people) |
 | [1154-day-of-the-year](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1154-day-of-the-year) |
 | [1185-day-of-the-week](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1185-day-of-the-week) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0935-orderly-queue](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0935-orderly-queue) |
 | [0961-long-pressed-name](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0961-long-pressed-name) |
 | [0979-di-string-match](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0979-di-string-match) |
+| [1041-robot-bounded-in-circle](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1041-robot-bounded-in-circle) |
 | [1154-day-of-the-year](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1154-day-of-the-year) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1472-increasing-decreasing-string](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1472-increasing-decreasing-string) |
@@ -618,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0495-teemo-attacking) |
 | [0537-complex-number-multiplication](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0537-complex-number-multiplication) |
 | [0640-solve-the-equation](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0640-solve-the-equation) |
+| [1041-robot-bounded-in-circle](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1041-robot-bounded-in-circle) |
 | [1103-distribute-candies-to-people](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1103-distribute-candies-to-people) |
 | [1518-water-bottles](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1518-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
