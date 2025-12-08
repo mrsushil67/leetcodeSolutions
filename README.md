@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0640-solve-the-equation](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0640-solve-the-equation) |
 | [0775-global-and-local-inversions](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0775-global-and-local-inversions) |
 | [0780-reaching-points](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0780-reaching-points) |
+| [0781-rabbits-in-forest](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0781-rabbits-in-forest) |
 | [0788-rotated-digits](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0788-rotated-digits) |
 | [0829-consecutive-numbers-sum](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0829-consecutive-numbers-sum) |
 | [0837-new-21-game](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0837-new-21-game) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0775-global-and-local-inversions](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0775-global-and-local-inversions) |
+| [0781-rabbits-in-forest](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0781-rabbits-in-forest) |
 | [0792-binary-search](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0792-binary-search) |
 | [0824-number-of-lines-to-write-string](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0824-number-of-lines-to-write-string) |
 | [0837-most-common-word](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0837-most-common-word) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0609-find-duplicate-file-in-system) |
 | [0648-replace-words](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0648-replace-words) |
+| [0781-rabbits-in-forest](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0781-rabbits-in-forest) |
 | [0782-jewels-and-stones](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0782-jewels-and-stones) |
 | [0837-most-common-word](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0837-most-common-word) |
 | [0889-buddy-strings](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0889-buddy-strings) |
@@ -439,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0646-maximum-length-of-pair-chain](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0680-valid-palindrome-ii](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0680-valid-palindrome-ii) |
+| [0781-rabbits-in-forest](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0781-rabbits-in-forest) |
 | [0976-largest-perimeter-triangle](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0976-largest-perimeter-triangle) |
 | [0979-di-string-match](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0979-di-string-match) |
 | [1095-two-city-scheduling](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1095-two-city-scheduling) |
