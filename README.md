@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0843-guess-the-word](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0843-guess-the-word) |
 | [0866-prime-palindrome](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0866-prime-palindrome) |
 | [0878-nth-magical-number](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0878-nth-magical-number) |
+| [0908-smallest-range-i](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0908-smallest-range-i) |
 | [0932-beautiful-array](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0932-beautiful-array) |
 | [0935-orderly-queue](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0935-orderly-queue) |
 | [0976-largest-perimeter-triangle](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0976-largest-perimeter-triangle) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-car-fleet](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0883-car-fleet) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0895-shortest-path-to-get-all-keys) |
 | [0907-koko-eating-bananas](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0907-koko-eating-bananas) |
+| [0908-smallest-range-i](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0908-smallest-range-i) |
 | [0926-find-and-replace-pattern](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0926-find-and-replace-pattern) |
 | [0932-beautiful-array](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0932-beautiful-array) |
 | [0976-largest-perimeter-triangle](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0976-largest-perimeter-triangle) |
