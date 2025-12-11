@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0648-replace-words](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0648-replace-words) |
+| [0720-longest-word-in-dictionary](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0720-longest-word-in-dictionary) |
 | [0739-daily-temperatures](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0775-global-and-local-inversions](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0775-global-and-local-inversions) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0640-solve-the-equation](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0640-solve-the-equation) |
 | [0648-replace-words](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0648-replace-words) |
 | [0680-valid-palindrome-ii](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0680-valid-palindrome-ii) |
+| [0720-longest-word-in-dictionary](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0720-longest-word-in-dictionary) |
 | [0782-jewels-and-stones](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0782-jewels-and-stones) |
 | [0824-number-of-lines-to-write-string](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0824-number-of-lines-to-write-string) |
 | [0837-most-common-word](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0837-most-common-word) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0014-longest-common-prefix) |
 | [0472-concatenated-words](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0472-concatenated-words) |
 | [0648-replace-words](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0648-replace-words) |
+| [0720-longest-word-in-dictionary](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0720-longest-word-in-dictionary) |
 ## Two Pointers
 |  |
 | ------- |
@@ -371,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0539-minimum-time-difference) |
 | [0645-set-mismatch](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0646-maximum-length-of-pair-chain) |
+| [0720-longest-word-in-dictionary](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0720-longest-word-in-dictionary) |
 | [0883-car-fleet](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0883-car-fleet) |
 | [0935-orderly-queue](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0935-orderly-queue) |
 | [0976-largest-perimeter-triangle](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0976-largest-perimeter-triangle) |
@@ -425,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0609-find-duplicate-file-in-system](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0609-find-duplicate-file-in-system) |
 | [0645-set-mismatch](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0645-set-mismatch) |
 | [0648-replace-words](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0648-replace-words) |
+| [0720-longest-word-in-dictionary](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0720-longest-word-in-dictionary) |
 | [0781-rabbits-in-forest](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0781-rabbits-in-forest) |
 | [0782-jewels-and-stones](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0782-jewels-and-stones) |
 | [0837-most-common-word](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0837-most-common-word) |
