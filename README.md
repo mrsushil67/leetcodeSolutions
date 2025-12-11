@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0609-find-duplicate-file-in-system) |
 | [0624-maximum-distance-in-arrays](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0624-maximum-distance-in-arrays) |
+| [0645-set-mismatch](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0648-replace-words](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0648-replace-words) |
 | [0739-daily-temperatures](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0739-daily-temperatures) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0472-concatenated-words) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0539-minimum-time-difference) |
+| [0645-set-mismatch](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0883-car-fleet](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0883-car-fleet) |
 | [0935-orderly-queue](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0935-orderly-queue) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0645-set-mismatch](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0645-set-mismatch) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0895-shortest-path-to-get-all-keys) |
 | [1486-xor-operation-in-an-array](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1486-xor-operation-in-an-array) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -420,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0609-find-duplicate-file-in-system) |
+| [0645-set-mismatch](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0645-set-mismatch) |
 | [0648-replace-words](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0648-replace-words) |
 | [0781-rabbits-in-forest](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0781-rabbits-in-forest) |
 | [0782-jewels-and-stones](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0782-jewels-and-stones) |
