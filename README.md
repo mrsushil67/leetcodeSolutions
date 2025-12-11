@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0495-teemo-attacking) |
 | [0500-keyboard-row](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0525-contiguous-array) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0539-minimum-time-difference) |
 | [0546-remove-boxes](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0546-remove-boxes) |
 | [0553-optimal-division](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0553-optimal-division) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0321-create-maximum-number) |
 | [0344-reverse-string](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0392-is-subsequence) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0556-next-greater-element-iii](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0567-permutation-in-string) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0436-find-right-interval) |
 | [0456-132-pattern](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0493-reverse-pairs) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0633-sum-of-square-numbers](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0633-sum-of-square-numbers) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0792-binary-search) |
@@ -363,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0436-find-right-interval) |
 | [0451-sort-characters-by-frequency](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 | [0472-concatenated-words](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0472-concatenated-words) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0539-minimum-time-difference) |
 | [0646-maximum-length-of-pair-chain](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0883-car-fleet](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0883-car-fleet) |
@@ -412,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0525-contiguous-array) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0609-find-duplicate-file-in-system) |
