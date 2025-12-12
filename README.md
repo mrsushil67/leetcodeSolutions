@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1363-largest-multiple-of-three](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1363-largest-multiple-of-three) |
 | [1402-reducing-dishes](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1402-reducing-dishes) |
 | [1453-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1453-maximum-number-of-darts-inside-of-a-circular-dartboard) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1512-number-of-good-pairs](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1512-number-of-good-pairs) |
 | [1799-maximize-score-after-n-operations](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1799-maximize-score-after-n-operations) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1288-remove-covered-intervals) |
 | [1363-largest-multiple-of-three](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1363-largest-multiple-of-three) |
 | [1402-reducing-dishes](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1402-reducing-dishes) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/mrsushil67/leetcodeSolutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3024-type-of-triangle](https://github.com/mrsushil67/leetcodeSolutions/tree/master/3024-type-of-triangle) |
 ## Bit Manipulation
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0926-find-and-replace-pattern](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0926-find-and-replace-pattern) |
 | [1122-relative-sort-array](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1122-relative-sort-array) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1472-increasing-decreasing-string](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1472-increasing-decreasing-string) |
 | [1512-number-of-good-pairs](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1512-number-of-good-pairs) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
