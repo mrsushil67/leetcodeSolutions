@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1814-count-nice-pairs-in-an-array](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1862-sum-of-floored-pairs](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1862-sum-of-floored-pairs) |
+| [1943-describe-the-painting](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1943-describe-the-painting) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2028-find-missing-observations](https://github.com/mrsushil67/leetcodeSolutions/tree/master/2028-find-missing-observations) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/mrsushil67/leetcodeSolutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1943-describe-the-painting](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1943-describe-the-painting) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/mrsushil67/leetcodeSolutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3024-type-of-triangle](https://github.com/mrsushil67/leetcodeSolutions/tree/master/3024-type-of-triangle) |
 ## Bit Manipulation
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1873-longest-nice-substring](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1873-longest-nice-substring) |
+| [1943-describe-the-painting](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1943-describe-the-painting) |
 | [2514-count-anagrams](https://github.com/mrsushil67/leetcodeSolutions/tree/master/2514-count-anagrams) |
 ## Sliding Window
 |  |
@@ -755,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0878-shifting-letters](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0878-shifting-letters) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1862-sum-of-floored-pairs](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1862-sum-of-floored-pairs) |
+| [1943-describe-the-painting](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1943-describe-the-painting) |
 ## Rolling Hash
 |  |
 | ------- |
