@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-check-if-it-is-a-good-array](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1250-check-if-it-is-a-good-array) |
 | [1288-remove-covered-intervals](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1288-remove-covered-intervals) |
 | [1363-largest-multiple-of-three](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1363-largest-multiple-of-three) |
+| [1402-reducing-dishes](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1402-reducing-dishes) |
 | [1453-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1453-maximum-number-of-darts-inside-of-a-circular-dartboard) |
 | [1512-number-of-good-pairs](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1512-number-of-good-pairs) |
 | [1799-maximize-score-after-n-operations](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1799-maximize-score-after-n-operations) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1288-remove-covered-intervals) |
 | [1363-largest-multiple-of-three](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1363-largest-multiple-of-three) |
+| [1402-reducing-dishes](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1402-reducing-dishes) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/mrsushil67/leetcodeSolutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3024-type-of-triangle](https://github.com/mrsushil67/leetcodeSolutions/tree/master/3024-type-of-triangle) |
 ## Bit Manipulation
@@ -482,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-two-city-scheduling](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1095-two-city-scheduling) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1363-largest-multiple-of-three](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1363-largest-multiple-of-three) |
+| [1402-reducing-dishes](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1402-reducing-dishes) |
 | [1903-largest-odd-number-in-string](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1927-sum-game) |
 | [2457-minimum-addition-to-make-integer-beautiful](https://github.com/mrsushil67/leetcodeSolutions/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
@@ -515,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0868-push-dominoes) |
 | [0887-super-egg-drop](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0887-super-egg-drop) |
 | [1363-largest-multiple-of-three](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1363-largest-multiple-of-three) |
+| [1402-reducing-dishes](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1402-reducing-dishes) |
 | [1510-stone-game-iv](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1510-stone-game-iv) |
 | [1764-maximum-repeating-substring](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1764-maximum-repeating-substring) |
 | [1799-maximize-score-after-n-operations](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1799-maximize-score-after-n-operations) |
