@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0979-di-string-match) |
 | [1036-rotting-oranges](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1036-rotting-oranges) |
 | [1095-two-city-scheduling](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1095-two-city-scheduling) |
+| [1122-relative-sort-array](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1122-relative-sort-array) |
 | [1250-check-if-it-is-a-good-array](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1250-check-if-it-is-a-good-array) |
 | [1453-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1453-maximum-number-of-darts-inside-of-a-circular-dartboard) |
 | [1512-number-of-good-pairs](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1512-number-of-good-pairs) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0935-orderly-queue](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0935-orderly-queue) |
 | [0976-largest-perimeter-triangle](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0976-largest-perimeter-triangle) |
 | [1095-two-city-scheduling](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1095-two-city-scheduling) |
+| [1122-relative-sort-array](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1122-relative-sort-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/mrsushil67/leetcodeSolutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3024-type-of-triangle](https://github.com/mrsushil67/leetcodeSolutions/tree/master/3024-type-of-triangle) |
 ## Bit Manipulation
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-buddy-strings](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0926-find-and-replace-pattern](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0926-find-and-replace-pattern) |
+| [1122-relative-sort-array](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1122-relative-sort-array) |
 | [1472-increasing-decreasing-string](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1472-increasing-decreasing-string) |
 | [1512-number-of-good-pairs](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1512-number-of-good-pairs) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -772,4 +775,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0324-wiggle-sort-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
