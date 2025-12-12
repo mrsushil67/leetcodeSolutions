@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1402-reducing-dishes) |
 | [1453-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1453-maximum-number-of-darts-inside-of-a-circular-dartboard) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1512-number-of-good-pairs](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1512-number-of-good-pairs) |
 | [1799-maximize-score-after-n-operations](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1799-maximize-score-after-n-operations) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0868-push-dominoes) |
 | [0961-long-pressed-name](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0961-long-pressed-name) |
 | [0979-di-string-match](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0979-di-string-match) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 ## Binary Search
 |  |
 | ------- |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0887-super-egg-drop](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0887-super-egg-drop) |
 | [0907-koko-eating-bananas](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0907-koko-eating-bananas) |
 | [1201-ugly-number-iii](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1201-ugly-number-iii) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1862-sum-of-floored-pairs](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1862-sum-of-floored-pairs) |
 ## Sorting
 |  |
@@ -392,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1363-largest-multiple-of-three](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1363-largest-multiple-of-three) |
 | [1402-reducing-dishes](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1402-reducing-dishes) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/mrsushil67/leetcodeSolutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3024-type-of-triangle](https://github.com/mrsushil67/leetcodeSolutions/tree/master/3024-type-of-triangle) |
 ## Bit Manipulation
@@ -746,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0525-contiguous-array](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0525-contiguous-array) |
 | [0878-shifting-letters](https://github.com/mrsushil67/leetcodeSolutions/tree/master/0878-shifting-letters) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1862-sum-of-floored-pairs](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1862-sum-of-floored-pairs) |
 ## Rolling Hash
 |  |
