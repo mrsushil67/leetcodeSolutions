@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1862-sum-of-floored-pairs](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1862-sum-of-floored-pairs) |
 | [1943-describe-the-painting](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1943-describe-the-painting) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2007-find-original-array-from-doubled-array](https://github.com/mrsushil67/leetcodeSolutions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2028-find-missing-observations](https://github.com/mrsushil67/leetcodeSolutions/tree/master/2028-find-missing-observations) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/mrsushil67/leetcodeSolutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2101-detonate-the-maximum-bombs](https://github.com/mrsushil67/leetcodeSolutions/tree/master/2101-detonate-the-maximum-bombs) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1943-describe-the-painting](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1943-describe-the-painting) |
+| [2007-find-original-array-from-doubled-array](https://github.com/mrsushil67/leetcodeSolutions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/mrsushil67/leetcodeSolutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3024-type-of-triangle](https://github.com/mrsushil67/leetcodeSolutions/tree/master/3024-type-of-triangle) |
 ## Bit Manipulation
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1814-count-nice-pairs-in-an-array](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1873-longest-nice-substring](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1873-longest-nice-substring) |
 | [1943-describe-the-painting](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1943-describe-the-painting) |
+| [2007-find-original-array-from-doubled-array](https://github.com/mrsushil67/leetcodeSolutions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2514-count-anagrams](https://github.com/mrsushil67/leetcodeSolutions/tree/master/2514-count-anagrams) |
 ## Sliding Window
 |  |
@@ -500,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1402-reducing-dishes) |
 | [1903-largest-odd-number-in-string](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/mrsushil67/leetcodeSolutions/tree/master/1927-sum-game) |
+| [2007-find-original-array-from-doubled-array](https://github.com/mrsushil67/leetcodeSolutions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2457-minimum-addition-to-make-integer-beautiful](https://github.com/mrsushil67/leetcodeSolutions/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
 ## Dynamic Programming
 |  |
